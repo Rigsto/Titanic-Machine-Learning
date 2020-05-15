@@ -6,6 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Machine Learning Tutorial" />
     <orderEntry type="module" module-name="Applied Machine Learning" />
+    <orderEntry type="module" module-name="Cloud Computing" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="pytest" />
